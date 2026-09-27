@@ -1,4 +1,4 @@
-# @amamo/oxlint-config
+telecommunications smart home technology # @amamo/oxlint-config
 
 English | [简体中文](./README-zh.md) | [Rule Explorer](https://jikkai.github.io/oxlint-config/)
 
